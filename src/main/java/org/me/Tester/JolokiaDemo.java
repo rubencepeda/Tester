@@ -23,6 +23,7 @@ public class JolokiaDemo {
 			int usage = (int) (used * 100 / max);
 			System.out.println("Memory usage: used: " + used + " / max: " + max
 					+ " = " + usage + "%");
+			
 		}
 	}
 }
